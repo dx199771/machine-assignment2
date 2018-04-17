@@ -1,0 +1,361 @@
+Los Angeles
+Augusta
+2677
+Albany
+Augusta
+246
+Boston
+Augusta
+169
+New York
+Augusta
+338
+Detroit
+Augusta
+692
+Washington DC
+Augusta
+562
+Indianapolis
+Augusta
+908
+Chicago
+Augusta
+938
+Atlanta
+Augusta
+1123
+Tallahassee
+Augusta
+1308
+Miami
+Augusta
+1508
+New Orleans
+Augusta
+1554
+Memphis
+Augusta
+1277
+Jefferson City
+Augusta
+1238
+Dallas
+Augusta
+1708
+Austin
+Augusta
+1862
+Oklahoma City
+Augusta
+1615
+Pierre
+Augusta
+1508
+Bismarck
+Augusta
+1492
+Denver
+Augusta
+1831
+Santa Fe
+Augusta
+2015
+Phoenix
+Augusta
+2385
+Salt Lake City
+Augusta
+2146
+Helena
+Augusta
+2062
+Boise
+Augusta
+2292
+Las Vegas
+Augusta
+2446
+San Francisco
+Augusta
+2754
+Salem
+Augusta
+2600
+Seattle
+Augusta
+2523
+Augusta
+Augusta
+0
+Augusta
+Los Angeles
+2677
+Albany
+Los Angeles
+2462
+Boston
+Los Angeles
+2615
+New York
+Los Angeles
+2462
+Detroit
+Los Angeles
+2000
+Washington DC
+Los Angeles
+2292
+Indianapolis
+Los Angeles
+1808
+Chicago
+Los Angeles
+1746
+Atlanta
+Los Angeles
+1923
+Tallahassee
+Los Angeles
+2000
+Miami
+Los Angeles
+2354
+New Orleans
+Los Angeles
+1692
+Memphis
+Los Angeles
+1600
+Jefferson City
+Los Angeles
+1492
+Dallas
+Los Angeles
+1231
+Austin
+Los Angeles
+1231
+Oklahoma City
+Los Angeles
+1185
+Pierre
+Los Angeles
+1215
+Bismarck
+Los Angeles
+1338
+Denver
+Los Angeles
+846
+Santa Fe
+Los Angeles
+708
+Phoenix
+Los Angeles
+369
+Salt Lake City
+Los Angeles
+615
+Helena
+Los Angeles
+985
+Boise
+Los Angeles
+723
+Las Vegas
+Los Angeles
+231
+San Francisco
+Los Angeles
+354
+Salem
+Los Angeles
+862
+Seattle
+Los Angeles
+1046
+Los Angeles
+Los Angeles
+0
+Augusta
+Miami
+1508
+Albany
+Miami
+1308
+Boston
+Miami
+1338
+New York
+Miami
+1185
+Detroit
+Miami
+1231
+Washington DC
+Miami
+985
+Indianapolis
+Miami
+1077
+Chicago
+Miami
+1246
+Atlanta
+Miami
+631
+Tallahassee
+Miami
+423
+Los Angeles
+Miami
+2354
+New Orleans
+Miami
+677
+Memphis
+Miami
+908
+Jefferson City
+Miami
+1169
+Dallas
+Miami
+1123
+Austin
+Miami
+1123
+Oklahoma City
+Miami
+1246
+Pierre
+Miami
+1769
+Bismarck
+Miami
+1908
+Denver
+Miami
+1754
+Santa Fe
+Miami
+1692
+Phoenix
+Miami
+1985
+Salt Lake City
+Miami
+2123
+Helena
+Miami
+2323
+Boise
+Miami
+2400
+Las Vegas
+Miami
+2200
+San Francisco
+Miami
+2600
+Salem
+Miami
+2754
+Seattle
+Miami
+2800
+Miami
+Miami
+0
+Augusta
+Seattle
+2523
+Albany
+Seattle
+2385
+Boston
+Seattle
+2523
+New York
+Seattle
+2431
+Detroit
+Seattle
+1969
+Washington DC
+Seattle
+2431
+Indianapolis
+Seattle
+1892
+Chicago
+Seattle
+1769
+Atlanta
+Seattle
+2231
+Tallahassee
+Seattle
+2385
+Miami
+Seattle
+2800
+New Orleans
+Seattle
+2169
+Memphis
+Seattle
+1908
+Jefferson City
+Seattle
+1662
+Dallas
+Seattle
+1738
+Austin
+Seattle
+1846
+Oklahoma City
+Seattle
+1585
+Pierre
+Seattle
+1092
+Bismarck
+Seattle
+1046
+Denver
+Seattle
+1062
+Santa Fe
+Seattle
+1231
+Phoenix
+Seattle
+1200
+Salt Lake City
+Seattle
+738
+Helena
+Seattle
+492
+Boise
+Seattle
+431
+Las Vegas
+Seattle
+938
+San Francisco
+Seattle
+738
+Salem
+Seattle
+200
+Los Angeles
+Seattle
+1046
+Seattle
+Seattle
+0
+done

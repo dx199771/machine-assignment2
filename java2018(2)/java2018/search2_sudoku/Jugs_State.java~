@@ -1,0 +1,30 @@
+/*
+	State in a jugs problem
+*/
+
+public class Jugs_State {
+
+    private int c1;
+    private int c2;
+	
+    // constructor
+    public Jugs_State(int j1c, int j2c){
+	c1=j1c;
+	c2=j2c;
+    }
+		
+    //accessors
+    public int get_c1() { return c1;}
+    public int get_c2() { return c2;}
+
+    // toString 
+    public String state_toString () {
+	return "Jug State: Jug1-> "+c1+" Jug2-> "+c2;
+	    }
+    
+	
+    
+}
+
+
+

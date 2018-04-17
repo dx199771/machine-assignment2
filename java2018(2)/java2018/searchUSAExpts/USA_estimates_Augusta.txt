@@ -1,0 +1,91 @@
+Los Angeles
+Augusta
+2677
+Albany
+Augusta
+246
+Boston
+Augusta
+169
+New York
+Augusta
+338
+Detroit
+Augusta
+692
+Washington DC
+Augusta
+562
+Indianapolis
+Augusta
+908
+Chicago
+Augusta
+938
+Atlanta
+Augusta
+1123
+Tallahassee
+Augusta
+1308
+Miami
+Augusta
+1508
+New Orleans
+Augusta
+1554
+Memphis
+Augusta
+1277
+Jefferson City
+Augusta
+1238
+Dallas
+Augusta
+1708
+Austin
+Augusta
+1862
+Oklahoma City
+Augusta
+1615
+Pierre
+Augusta
+1508
+Bismarck
+Augusta
+1492
+Denver
+Augusta
+1831
+Santa Fe
+Augusta
+2015
+Phoenix
+Augusta
+2385
+Salt Lake City
+Augusta
+2146
+Helena
+Augusta
+2062
+Boise
+Augusta
+2292
+Las Vegas
+Augusta
+2446
+San Francisco
+Augusta
+2754
+Salem
+Augusta
+2600
+Seattle
+Augusta
+2523
+Augusta
+Augusta
+0
+done

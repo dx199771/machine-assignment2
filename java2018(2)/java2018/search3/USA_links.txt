@@ -1,0 +1,217 @@
+Augusta
+Boston
+152
+Augusta
+Detroit
+686
+Augusta
+Albany
+235
+Boston
+Albany
+144
+Boston
+New York
+190
+Albany
+Detroit
+475
+Albany
+New York
+138
+New York
+Washington DC
+204
+New York
+Detroit
+489
+Washington DC
+Detroit
+400
+Washington DC
+Indianapolis
+493
+Washington DC
+Miami
+924
+Washington DC
+Atlanta
+544
+Miami
+Atlanta
+605
+Miami
+Tallahassee
+407
+Miami
+New Orleans
+664
+Detroit
+Indianapolis
+240
+Detroit
+Chicago
+238
+Detroit
+Bismarck
+921
+Chicago
+Bismarck
+732
+Chicago
+Indianapolis
+163
+Chicago
+Jefferson City
+328
+Indianapolis
+Atlanta
+426
+Indianapolis
+Memphis
+386
+Indianapolis
+Jefferson City
+335
+Atlanta
+Tallahassee
+228
+Atlanta
+Memphis
+332
+Atlanta
+New Orleans
+412
+Tallahassee
+New Orleans
+339
+New Orleans
+Memphis
+347
+New Orleans
+Dallas
+445
+New Orleans
+Austin
+468
+Memphis
+Dallas
+419
+Memphis
+Oklahoma City
+425
+Memphis
+Jefferson City
+268
+Jefferson City
+Oklahoma City
+364
+Jefferson City
+Denver
+685
+Jefferson City
+Pierre
+581
+Jefferson City
+Bismarck
+716
+Oklahoma City
+Denver
+501
+Oklahoma City
+Dallas
+189
+Oklahoma City
+Santa Fe
+476
+Dallas
+Austin
+181
+Dallas
+Santa Fe
+562
+Dallas
+Phoenix
+888
+Austin
+Phoenix
+870
+Bismarck
+Pierre
+169
+Bismarck
+Helena
+535
+Pierre
+Denver
+395
+Pierre
+Helena
+588
+Denver
+Helena
+593
+Denver
+Salt Lake City
+379
+Denver
+Santa Fe
+288
+Santa Fe
+Salt Lake City
+479
+Santa Fe
+Phoenix
+378
+Helena
+Seattle
+492
+Helena
+Boise
+290
+Helena
+Salt Lake City
+402
+Salt Lake City
+Boise
+294
+Salt Lake City
+Las Vegas
+362
+Salt Lake City
+Phoenix
+499
+Phoenix
+Las Vegas
+256
+Phoenix
+Los Angeles
+367
+Las Vegas
+Los Angeles
+231
+Las Vegas
+San Francisco
+420
+Las Vegas
+Boise
+514
+Boise
+Seattle
+406
+Boise
+Salem
+350
+Boise
+San Francisco
+522
+Seattle
+Salem
+189
+Salem
+San Francisco
+493
+San Francisco
+Los Angeles
+344
+done

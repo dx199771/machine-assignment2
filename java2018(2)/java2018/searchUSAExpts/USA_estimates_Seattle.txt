@@ -1,0 +1,91 @@
+Augusta
+Seattle
+2523
+Albany
+Seattle
+2385
+Boston
+Seattle
+2523
+New York
+Seattle
+2431
+Detroit
+Seattle
+1969
+Washington DC
+Seattle
+2431
+Indianapolis
+Seattle
+1892
+Chicago
+Seattle
+1769
+Atlanta
+Seattle
+2231
+Tallahassee
+Seattle
+2385
+Miami
+Seattle
+2800
+New Orleans
+Seattle
+2169
+Memphis
+Seattle
+1908
+Jefferson City
+Seattle
+1662
+Dallas
+Seattle
+1738
+Austin
+Seattle
+1846
+Oklahoma City
+Seattle
+1585
+Pierre
+Seattle
+1092
+Bismarck
+Seattle
+1046
+Denver
+Seattle
+1062
+Santa Fe
+Seattle
+1231
+Phoenix
+Seattle
+1200
+Salt Lake City
+Seattle
+738
+Helena
+Seattle
+492
+Boise
+Seattle
+431
+Las Vegas
+Seattle
+938
+San Francisco
+Seattle
+738
+Salem
+Seattle
+200
+Los Angeles
+Seattle
+1046
+Seattle
+Seattle
+0
+done

@@ -1,0 +1,92 @@
+Albany
+Denver
+1036
+Atlanta
+Denver
+755
+Augusta
+Denver
+1162
+Austin
+Denver
+523
+Bismarck
+Denver
+338
+Boise
+Denver
+404
+Boston
+Denver
+1122
+Chicago
+Denver
+608
+Dallas
+Denver
+414
+Denver
+Denver
+0
+Detroit
+Denver
+751
+Helena
+Denver
+356
+Indianapolis
+Denver
+612
+Jefferson City
+Denver
+411
+Las Vegas
+Denver
+445
+Los Angeles
+Denver
+583
+Memphis
+Denver
+556
+Miami
+Denver
+1079
+New Orleans
+Denver
+681
+New York
+Denver
+1030
+Oklahoma City
+Denver
+301
+Phoenix
+Denver
+400
+Pierre
+Denver
+237
+Salem
+Denver
+614
+Salt Lake City
+Denver
+227
+San Francisco
+Denver
+697
+Santa Fe
+Denver
+173
+Seattle
+Denver
+647
+Tallahassee
+Denver
+884
+Washington DC
+Denver
+884
+done
+

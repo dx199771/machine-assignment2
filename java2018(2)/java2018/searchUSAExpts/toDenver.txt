@@ -1,0 +1,34 @@
+Journeys to Denver
+
+BRANCH & BOUND
+
+Albany 1726 0.25
+Atlanta 1258 0.2
+Augusta 1937 0.25
+Austin 871 0.4
+Bismarck 564 0.75
+Boise 673 0.375
+Boston 1870 0.3
+Chicago 1013 0.16666667
+Dallas 690 0.375
+Denver 0 1.0
+Detroit 1251 0.21052632
+Helena 593 0.2857143
+Indianapolis 1020 0.15789473
+Jefferson City 685 0.18181819
+Las Vegas 741 0.375
+Los Angeles 972 0.44444445
+Memphis 926 0.2
+Miami 1799 0.25
+New Orleans 1135 0.26666668
+New York 1717 0.25
+Oklahoma City 501 0.2857143
+Phoenix 666 0.5
+Pierre 395 0.6666667
+Salem 1023 0.44444445
+Salt Lake City 379 0.5
+San Francisco 1161 0.36363637
+Santa Fe 288 1.0
+Seattle 1079 0.4
+Tallahassee 1474 0.25
+Washington DC 1513 0.2

@@ -1,0 +1,91 @@
+Augusta
+Miami
+1508
+Albany
+Miami
+1308
+Boston
+Miami
+1338
+New York
+Miami
+1185
+Detroit
+Miami
+1231
+Washington DC
+Miami
+985
+Indianapolis
+Miami
+1077
+Chicago
+Miami
+1246
+Atlanta
+Miami
+631
+Tallahassee
+Miami
+423
+Los Angeles
+Miami
+2354
+New Orleans
+Miami
+677
+Memphis
+Miami
+908
+Jefferson City
+Miami
+1169
+Dallas
+Miami
+1123
+Austin
+Miami
+1123
+Oklahoma City
+Miami
+1246
+Pierre
+Miami
+1769
+Bismarck
+Miami
+1908
+Denver
+Miami
+1754
+Santa Fe
+Miami
+1692
+Phoenix
+Miami
+1985
+Salt Lake City
+Miami
+2123
+Helena
+Miami
+2323
+Boise
+Miami
+2400
+Las Vegas
+Miami
+2200
+San Francisco
+Miami
+2600
+Salem
+Miami
+2754
+Seattle
+Miami
+2800
+Miami
+Miami
+0
+done

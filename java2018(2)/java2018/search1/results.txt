@@ -1,0 +1,224 @@
+cd /home/pdg/java/com128/search/search1/
+
+Jugs_Search searcher = new Jugs_Search(7,4,2);
+
+java Run_Jugs_Search
+
+Starting Search
+-------------------------
+iteration no 1
+open is
+has state Jug State: Jug1-> 0 Jug2-> 0
+Current node has state Jug State: Jug1-> 0 Jug2-> 0
+-------------------------
+iteration no 2
+open is
+has state Jug State: Jug1-> 7 Jug2-> 0
+has state Jug State: Jug1-> 0 Jug2-> 4
+Current node has state Jug State: Jug1-> 0 Jug2-> 4
+-------------------------
+iteration no 3
+open is
+has state Jug State: Jug1-> 7 Jug2-> 0
+has state Jug State: Jug1-> 7 Jug2-> 4
+has state Jug State: Jug1-> 4 Jug2-> 0
+Current node has state Jug State: Jug1-> 4 Jug2-> 0
+-------------------------
+iteration no 4
+open is
+has state Jug State: Jug1-> 7 Jug2-> 0
+has state Jug State: Jug1-> 7 Jug2-> 4
+has state Jug State: Jug1-> 4 Jug2-> 4
+Current node has state Jug State: Jug1-> 4 Jug2-> 4
+-------------------------
+iteration no 5
+open is
+has state Jug State: Jug1-> 7 Jug2-> 0
+has state Jug State: Jug1-> 7 Jug2-> 4
+has state Jug State: Jug1-> 7 Jug2-> 1
+Current node has state Jug State: Jug1-> 7 Jug2-> 1
+-------------------------
+iteration no 6
+open is
+has state Jug State: Jug1-> 7 Jug2-> 0
+has state Jug State: Jug1-> 7 Jug2-> 4
+has state Jug State: Jug1-> 0 Jug2-> 1
+Current node has state Jug State: Jug1-> 0 Jug2-> 1
+-------------------------
+iteration no 7
+open is
+has state Jug State: Jug1-> 7 Jug2-> 0
+has state Jug State: Jug1-> 7 Jug2-> 4
+has state Jug State: Jug1-> 1 Jug2-> 0
+Current node has state Jug State: Jug1-> 1 Jug2-> 0
+-------------------------
+iteration no 8
+open is
+has state Jug State: Jug1-> 7 Jug2-> 0
+has state Jug State: Jug1-> 7 Jug2-> 4
+has state Jug State: Jug1-> 1 Jug2-> 4
+Current node has state Jug State: Jug1-> 1 Jug2-> 4
+-------------------------
+iteration no 9
+open is
+has state Jug State: Jug1-> 7 Jug2-> 0
+has state Jug State: Jug1-> 7 Jug2-> 4
+has state Jug State: Jug1-> 5 Jug2-> 0
+Current node has state Jug State: Jug1-> 5 Jug2-> 0
+-------------------------
+iteration no 10
+open is
+has state Jug State: Jug1-> 7 Jug2-> 0
+has state Jug State: Jug1-> 7 Jug2-> 4
+has state Jug State: Jug1-> 5 Jug2-> 4
+Current node has state Jug State: Jug1-> 5 Jug2-> 4
+-------------------------
+iteration no 11
+open is
+has state Jug State: Jug1-> 7 Jug2-> 0
+has state Jug State: Jug1-> 7 Jug2-> 4
+has state Jug State: Jug1-> 7 Jug2-> 2
+Current node has state Jug State: Jug1-> 7 Jug2-> 2
+Search Succeeds
+
+Process Run_Jugs_Search finished
+
+cd /home/pdg/java/com128/search/search1/
+java Run_Jugs_Search
+
+Starting Search
+-------------------------
+iteration no 1
+open is
+has state Jug State: Jug1-> 0 Jug2-> 0
+Current node has state Jug State: Jug1-> 0 Jug2-> 0
+-------------------------
+iteration no 2
+open is
+has state Jug State: Jug1-> 4 Jug2-> 0
+has state Jug State: Jug1-> 0 Jug2-> 3
+Current node has state Jug State: Jug1-> 0 Jug2-> 3
+-------------------------
+iteration no 3
+open is
+has state Jug State: Jug1-> 4 Jug2-> 0
+has state Jug State: Jug1-> 4 Jug2-> 3
+has state Jug State: Jug1-> 3 Jug2-> 0
+Current node has state Jug State: Jug1-> 3 Jug2-> 0
+-------------------------
+iteration no 4
+open is
+has state Jug State: Jug1-> 4 Jug2-> 0
+has state Jug State: Jug1-> 4 Jug2-> 3
+has state Jug State: Jug1-> 3 Jug2-> 3
+Current node has state Jug State: Jug1-> 3 Jug2-> 3
+-------------------------
+iteration no 5
+open is
+has state Jug State: Jug1-> 4 Jug2-> 0
+has state Jug State: Jug1-> 4 Jug2-> 3
+has state Jug State: Jug1-> 4 Jug2-> 2
+Current node has state Jug State: Jug1-> 4 Jug2-> 2
+Search Succeeds
+
+Process Run_Jugs_Search finished
+
+cd /home/pdg/java/com128/search/search1/
+java Run_Jugs_Search
+
+Starting Search
+-------------------------
+iteration no 1
+open is
+has state Jug State: Jug1-> 0 Jug2-> 0
+Current node has state Jug State: Jug1-> 0 Jug2-> 0
+-------------------------
+iteration no 2
+open is
+has state Jug State: Jug1-> 4 Jug2-> 0
+has state Jug State: Jug1-> 0 Jug2-> 3
+Current node has state Jug State: Jug1-> 0 Jug2-> 3
+-------------------------
+iteration no 3
+open is
+has state Jug State: Jug1-> 4 Jug2-> 0
+has state Jug State: Jug1-> 4 Jug2-> 3
+has state Jug State: Jug1-> 3 Jug2-> 0
+Current node has state Jug State: Jug1-> 3 Jug2-> 0
+-------------------------
+iteration no 4
+open is
+has state Jug State: Jug1-> 4 Jug2-> 0
+has state Jug State: Jug1-> 4 Jug2-> 3
+has state Jug State: Jug1-> 3 Jug2-> 3
+Current node has state Jug State: Jug1-> 3 Jug2-> 3
+-------------------------
+iteration no 5
+open is
+has state Jug State: Jug1-> 4 Jug2-> 0
+has state Jug State: Jug1-> 4 Jug2-> 3
+has state Jug State: Jug1-> 4 Jug2-> 2
+Current node has state Jug State: Jug1-> 4 Jug2-> 2
+-------------------------
+iteration no 6
+open is
+has state Jug State: Jug1-> 4 Jug2-> 0
+has state Jug State: Jug1-> 4 Jug2-> 3
+has state Jug State: Jug1-> 0 Jug2-> 2
+Current node has state Jug State: Jug1-> 0 Jug2-> 2
+-------------------------
+iteration no 7
+open is
+has state Jug State: Jug1-> 4 Jug2-> 0
+has state Jug State: Jug1-> 4 Jug2-> 3
+has state Jug State: Jug1-> 2 Jug2-> 0
+Current node has state Jug State: Jug1-> 2 Jug2-> 0
+-------------------------
+iteration no 8
+open is
+has state Jug State: Jug1-> 4 Jug2-> 0
+has state Jug State: Jug1-> 4 Jug2-> 3
+has state Jug State: Jug1-> 2 Jug2-> 3
+Current node has state Jug State: Jug1-> 2 Jug2-> 3
+-------------------------
+iteration no 9
+open is
+has state Jug State: Jug1-> 4 Jug2-> 0
+has state Jug State: Jug1-> 4 Jug2-> 3
+has state Jug State: Jug1-> 4 Jug2-> 1
+Current node has state Jug State: Jug1-> 4 Jug2-> 1
+-------------------------
+iteration no 10
+open is
+has state Jug State: Jug1-> 4 Jug2-> 0
+has state Jug State: Jug1-> 4 Jug2-> 3
+has state Jug State: Jug1-> 0 Jug2-> 1
+Current node has state Jug State: Jug1-> 0 Jug2-> 1
+-------------------------
+iteration no 11
+open is
+has state Jug State: Jug1-> 4 Jug2-> 0
+has state Jug State: Jug1-> 4 Jug2-> 3
+has state Jug State: Jug1-> 1 Jug2-> 0
+Current node has state Jug State: Jug1-> 1 Jug2-> 0
+-------------------------
+iteration no 12
+open is
+has state Jug State: Jug1-> 4 Jug2-> 0
+has state Jug State: Jug1-> 4 Jug2-> 3
+has state Jug State: Jug1-> 1 Jug2-> 3
+Current node has state Jug State: Jug1-> 1 Jug2-> 3
+-------------------------
+iteration no 13
+open is
+has state Jug State: Jug1-> 4 Jug2-> 0
+has state Jug State: Jug1-> 4 Jug2-> 3
+Current node has state Jug State: Jug1-> 4 Jug2-> 3
+-------------------------
+iteration no 14
+open is
+has state Jug State: Jug1-> 4 Jug2-> 0
+Current node has state Jug State: Jug1-> 4 Jug2-> 0
+Search Fails
+
+Process Run_Jugs_Search finished

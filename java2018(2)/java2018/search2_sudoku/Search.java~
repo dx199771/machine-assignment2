@@ -1,0 +1,125 @@
+/*
+	Search.java - abstract class specialising to Jugs_Search etc
+*/
+
+import java.util.*;
+import Search_Node;
+import Search_State;
+import simplejava.*;
+
+public abstract class Search {
+
+    protected Search_Node init_node; //initial node
+    protected Search_Node current_node; // current node
+    protected Stack open;  //open - list of Search_Nodes
+    protected Stack closed; //closed - .......
+    protected SimpleReader kb;
+    protected SimpleWriter scr;
+
+    protected Stack successor_nodes; //used in expand & vet_successors
+
+      	
+    // the actual search 
+    // assumes we have an init_node, provided by the constructor
+	
+    public  String run_Search (SimpleReader kboard, SimpleWriter scrn) {
+
+	kb=kboard;
+	scr=scrn;
+	
+	scr.println("Starting Search");
+	open=new Stack(); // initial open, closed
+	open.push(init_node);
+	closed=new Stack();
+	int cnum = 1;
+	
+	while (!open.isEmpty()) {
+		    
+	    // print contents of open
+	    scr.println("-------------------------");
+	    scr.println("iteration no "+cnum);
+	    scr.println("open is");
+	    for (Iterator it = open.iterator();it.hasNext(); ){
+		
+		Search_Node nn = (Search_Node) it.next();
+		
+		String nodestr=nn.toString();
+		
+		scr.println(nodestr);
+	    }
+	    
+	    select_Node(); // select_Node selects next node, 
+	                   // makes it current_node & removes it from open
+	    scr.println("Current node "+current_node.toString());
+	    if (current_node.goalP(this)) return "Search Succeeds";  //success 
+	                                              //- must pass search instance
+	    expand(); // go again
+	    closed.push(current_node); // put current node on closed
+	    cnum=cnum+1;
+	};
+
+	return "Search Fails";  // out of the while loop - failure
+
+	}
+	
+    // expand current node
+			
+    private void expand () {
+	// get all successor nodes - as Stack of Objects
+	
+	successor_nodes = current_node.get_Successors(this); //pass search instance
+	
+	vet_Successors(); //filter out unwanted - DP check
+
+	//add surviving nodes to open
+	   
+	    for (Iterator i = successor_nodes.iterator(); i.hasNext();)
+		open.push(i.next());
+	}
+
+    // vet the successors - reject any whose states are on open or closed
+		
+	private void vet_Successors() {
+	    Stack vslis = new Stack();
+	    
+	    for (Iterator i = successor_nodes.iterator(); i.hasNext();){
+		Search_Node snode = (Search_Node) i.next();
+		if (!(on_Closed(snode)) && !(on_Open(snode))) vslis.add(snode);
+	    };
+	    successor_nodes=vslis;
+	}
+
+    //on_Closed - is the state for a node the same as one on closed?
+
+    private boolean on_Closed(Search_Node new_node){
+	boolean ans = false;
+	for (Iterator ic = closed.iterator(); ic.hasNext();){ 
+	    Search_Node closed_node = (Search_Node) ic.next();
+	    if (new_node.same_State(closed_node)) ans=true;
+	}
+	return ans;
+    }
+	  //on_Closed - is the state for a node the same as one on closed?
+
+    private boolean on_Open(Search_Node new_node){
+	boolean ans = false;
+	for (Iterator ic = open.iterator(); ic.hasNext();){ 
+	    Search_Node open_node = (Search_Node) ic.next();
+	    if (new_node.same_State(open_node)) ans=true;
+	}
+	return ans;
+    }   
+		
+    // select the next node - depth-first for now - remove it from open
+	
+    private void select_Node() {
+	current_node= (Search_Node) open.pop();
+	}
+	
+	
+	   	
+		
+			
+	
+	
+}

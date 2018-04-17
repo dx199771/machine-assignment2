@@ -1,0 +1,34 @@
+Augusta
+Boston
+Detroit
+Albany
+New York
+Washington DC
+Indianapolis
+Miami
+Atlanta
+Tallahassee
+New Orleans
+Chicago
+Bismarck
+Jefferson City
+Memphis
+Dallas
+Austin
+Oklahoma City
+Denver
+Pierre
+Santa Fe
+Helena
+Salt Lake City
+Phoenix
+Seattle
+Boise
+Las Vegas
+Los Angeles
+San Francisco
+Salem
+
+"Albany", "Atlanta", "Augusta", "Austin", "Bismarck", "Boise", "Boston", "Chicago", "Dallas", "Denver", "Detroit", "Helena", "Indianapolis", "Jefferson City", "Las Vegas", "Los Angeles", "Memphis", "Miami", "New Orleans", "New York", "Oklahoma City", "Phoenix", "Pierre", "Salem", "Salt Lake City", "San Francisco", "Santa Fe", "Seattle", "Tallahassee", "Washington DC"
+
+

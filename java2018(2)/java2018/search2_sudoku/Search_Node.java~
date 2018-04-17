@@ -1,0 +1,19 @@
+/*
+	Node in a state-space search
+	abstract class
+*/
+
+import java.util.*;
+
+public abstract class Search_Node {
+    
+    // must implement goalP, get_Successors, same_State, node_toString
+    
+    // goalP takes a Search_Node & returns a boolean if it's a goal
+   
+    abstract boolean goalP(Search searcher);
+    abstract Stack get_Successors(Search searcher);
+    abstract boolean same_State(Search_Node n2);
+    abstract String node_toString();
+    
+}

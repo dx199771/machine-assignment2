@@ -1,0 +1,91 @@
+Augusta
+Los Angeles
+2677
+Albany
+Los Angeles
+2462
+Boston
+Los Angeles
+2615
+New York
+Los Angeles
+2462
+Detroit
+Los Angeles
+2000
+Washington DC
+Los Angeles
+2292
+Indianapolis
+Los Angeles
+1808
+Chicago
+Los Angeles
+1746
+Atlanta
+Los Angeles
+1923
+Tallahassee
+Los Angeles
+2000
+Miami
+Los Angeles
+2354
+New Orleans
+Los Angeles
+1692
+Memphis
+Los Angeles
+1600
+Jefferson City
+Los Angeles
+1492
+Dallas
+Los Angeles
+1231
+Austin
+Los Angeles
+1231
+Oklahoma City
+Los Angeles
+1185
+Pierre
+Los Angeles
+1215
+Bismarck
+Los Angeles
+1338
+Denver
+Los Angeles
+846
+Santa Fe
+Los Angeles
+708
+Phoenix
+Los Angeles
+369
+Salt Lake City
+Los Angeles
+615
+Helena
+Los Angeles
+985
+Boise
+Los Angeles
+723
+Las Vegas
+Los Angeles
+231
+San Francisco
+Los Angeles
+354
+Salem
+Los Angeles
+862
+Seattle
+Los Angeles
+1046
+Los Angeles
+Los Angeles
+0
+done

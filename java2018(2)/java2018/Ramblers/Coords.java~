@@ -1,0 +1,16 @@
+// a coordinate pair
+// for use in TerrainMaps
+
+public class Coords {
+    private int x;
+    private int y;
+    
+    public Coords (int yin, int xin){
+        x = xin;
+        y = yin;
+    }
+    
+    public int getx(){ return x;};
+    public int gety(){ return y;};
+    
+}    

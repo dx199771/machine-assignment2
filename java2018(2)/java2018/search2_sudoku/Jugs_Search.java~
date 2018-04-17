@@ -1,0 +1,52 @@
+/*
+	Jugs_Search.java
+	
+	search for jugs problems
+*/
+
+
+import Search;
+import Search_Node;
+
+import java.util.*;
+
+public class Jugs_Search extends Search {  
+
+    private int cap1; //capacity of jug1
+    private int cap2; //........... jug2
+    private int target; //target
+    
+    // constructor  takes jug capacities and target
+    // for now, just returns true/false
+
+    public  Jugs_Search (int c1, int c2, int tar) {
+	
+	    cap1=c1;
+	    cap2=c2;
+	    target=tar;
+	    Search_State init_state= (Search_State) new Jugs_State(0,0);
+	    
+	    init_node = new Search_Node(init_state);
+    }
+    //accessors
+
+    public int get_cap1(){
+	return cap1;
+    }
+     public int get_cap2(){
+	return cap2;
+    }
+     public int get_Target(){
+	return target;
+    }
+}
+    
+
+
+
+
+
+
+
+
+

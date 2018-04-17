@@ -1,0 +1,35 @@
+ /**
+   * Run_Jugs_Search.java
+   *
+   *
+   * Created: Fri Dec  1 12:59:33 2000
+   *
+   * @author <a href="mailto: "Phil Green</a>
+   * @version
+   
+   run a jugs search
+
+ */
+
+import simplejava.*;
+import java.util.*;
+import Search;
+import Search_Node;
+import Search_State;
+import Jugs_Search;
+import Jugs_State;
+
+public class Run_Jugs_Search {
+
+public static void main(String[] arg) {
+    
+    // create objects for input and output
+    SimpleReader keyboard = new SimpleReader();
+    SimpleWriter screen = new SimpleWriter();
+    
+    Jugs_Search searcher = new Jugs_Search(7,4,2);
+
+    String res = searcher.run_Search(keyboard,screen);
+    screen.println(res);
+}
+}   
